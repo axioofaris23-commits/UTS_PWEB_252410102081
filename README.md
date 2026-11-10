@@ -32,3 +32,6 @@
 
 ### Halaman Pengelolaan Menu
 ![Pengelolaan](public/images/pengelolaan.png)
+
+### Halaman Profile
+![Profile](public/images/profile.png)
