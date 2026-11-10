@@ -2,7 +2,7 @@
 
 **Nama:** Septyan Alfaris Pasau <br>
 **NIM:** 252410102081  <br>
-**Kelas:** PWEB
+**Kelas:** PWEB C
 
 ---
 
