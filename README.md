@@ -25,10 +25,10 @@
 ## Tampilan Website
 
 ### Halaman Login
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Halaman Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Halaman Pengelolaan Menu
-![Pengelolaan](screenshots/pengelolaan.png)
+![Pengelolaan](pengelolaan.png)
